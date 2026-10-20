@@ -4,10 +4,9 @@
 
 📍 **Enugu / Nigeria**
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Medium](https://img.shields.io/badge/MEDIUM-READ_ARTICLES-12100E?style=for-the-badge&logo=medium)](https://medium.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/chisomalor)
+[![Medium](https://img.shields.io/badge/MEDIUM-READ_ARTICLES-12100E?style=for-the-badge&logo=medium)](https://medium.com/@chisomlydia99)
 [![Gmail](https://img.shields.io/badge/EMAIL-CONTACT_ME-D14836?style=for-the-badge&logo=gmail)](mailto:chisomlydia99@gmail.com)
-
 ---
 
 ### 💫 About Me
